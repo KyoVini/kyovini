@@ -21,7 +21,8 @@ Now exploring a new world of C++ and Unreal.
       POKER KNIGHT 
       <blockquote>
         Enemies strategies, amulets FX and game logic strategies and tutorial events. <br>
-        Mobile | Android | IOS
+        Mobile | Android | IOS <br>
+        :spiral_calendar: 2021 - 2024 
       </blockquote>
     </td>
   </tr>
@@ -34,14 +35,24 @@ Now exploring a new world of C++ and Unreal.
     <td>
       Neuron 3 
       <blockquote>
-        Game development for an educational web portal <br>
-        Web
+        Games using actionscript 3 Starling and DragonBones for web and mobile.  <br>
+        Web <br>
+        :spiral_calendar:  2012 - 2018
       </blockquote>
       <a href="https://youtu.be/-miar8zf2W8?si=YyZzkUUeEIrouMVH">
         <img alt="One block" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/9306ff54543007.5980c65ca1656.jpg" width="130"/> 
       </a>
       <a href="https://youtu.be/DyqDcGo7VGQ?si=awd11BlxbF8UsWkp">
-        <img alt="One block" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e047dd54543007.5980c65ca190b.jpg" width="130"/> 
+        <img alt="Crazylator" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e047dd54543007.5980c65ca190b.jpg" width="130"/> 
+      </a>
+      <a href="https://www.youtube.com/watch?v=P_1wFrXA1-o">
+        <img alt="BlindWay" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f1fe5d54543007.5980c65ca1e0b.jpg" width="130"/> 
+      </a>
+      <a href="https://youtu.be/7Wjje8Vb3ro">
+        <img alt="Rocket" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/68823b54543007.5980c65ca20c4.jpg" width="130"/> 
+      </a>
+      <a href="https://youtu.be/-dWUlTe7d6E">
+        <img alt="Suffle" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2125b354543007.5980c65ca118e.jpg" width="130"/> 
       </a>
     </td>
   </tr>
@@ -54,9 +65,9 @@ Now exploring a new world of C++ and Unreal.
 | 🧩 GAME ENGINE AND LANGUAGE | 📊 SKILL LEVEL |                                
 |--------------------------------------|--------------------------------------|
 |![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)   | 🔥 🟩🟩🟩🟩🟩🟩🟩🟩 |
-|![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)   | 🚧 🟩🟧⬜⬜⬜⬜⬜⬜ |
+|![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)   | 🌱 🟩🟧⬜⬜⬜⬜⬜⬜ |
 |![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) | 🔥 🟩🟩🟩🟩🟩🟩🟩🟩 |
-|![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white) | 🚧 🟩🟧⬜⬜⬜⬜⬜⬜ |
+|![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white) | 🌱 🟩🟧⬜⬜⬜⬜⬜⬜ |
 
 
 
