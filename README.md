@@ -26,7 +26,42 @@ Now exploring a new world of C++ and Unreal.
       </blockquote>
     </td>
   </tr>
-
+<table>
+  <tr>
+    <td>
+      <picture>
+        <img alt="AgrooSchool" src="https://yt3.googleusercontent.com/ytc/AIdro_ke-QOMPsLuNKX_zkO2HtlytQ7p8bmNc9jle7tH2yXVQ-4=s900-c-k-c0x00ffffff-no-rj" width="130"/>
+      </picture>
+    </td>
+    <td>
+      AgroSchool - Financial Game 
+      <blockquote>
+        End-to-End game development.  <br>
+        Web <br>
+        :spiral_calendar:  2024 - 2024
+      </blockquote>
+    </td>
+  </tr>
+  
+</table>
+<table>
+  <tr>
+    <td>
+      <picture>
+      <img alt="Royal Lucky prize" src="https://cdnb.artstation.com/p/assets/covers/images/089/875/701/smaller_square/caio-vianna-caio-vianna-rectangle-9080.jpg?1752184621" width="130"/> 
+      </picture>
+    </td>
+    <td>
+      Royal Luck Prize 
+      <blockquote>
+        Worked on UI development and also created gameplay prototypes and interfaces for other games at the studio.  <br>
+        Web <br>
+        :spiral_calendar:  2019 - 2021
+      </blockquote>
+    </td>
+  </tr>
+  
+</table>
 <table>
   <tr>
     <td>
