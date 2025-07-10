@@ -107,7 +107,11 @@ Now exploring a new world of C++ and Unreal.
 |![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) | 🔥 🟩🟩🟩🟩🟩🟩🟩🟩 |
 |![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white) | 🌱 🟩🟧⬜⬜⬜⬜⬜⬜ |
 
+---
 
+Also Checkout my current Personal project on Linkedin:
+
+<a href="https://www.linkedin.com/posts/caio-vin%C3%ADcius-ab448030b_venho-mostrar-um-pouquinho-mais-da-melhoria-activity-7336870099582156800-NL7v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7p7igBdOPyQu3-85eiTet5s_wrHcBkxxM"></a>
 
 
 
