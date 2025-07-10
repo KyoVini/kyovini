@@ -21,7 +21,7 @@ Now exploring a new world of C++ and Unreal.
       POKER KNIGHT 
       <blockquote>
         Enemies strategies, amulets FX and game logic strategies and tutorial events. <br>
-        Mobile | Android | IOS <br>
+        Unity: Mobile | Android | IOS <br>
         :spiral_calendar: 2021 - 2024 
       </blockquote>
       <a href="https://www.youtube.com/watch?v=Ee31ZT7tlJE">
@@ -40,7 +40,7 @@ Now exploring a new world of C++ and Unreal.
       AgroSchool - Financial Game 
       <blockquote>
         End-to-End game development.  <br>
-        Web <br>
+        Unity: Web <br>
         :spiral_calendar:  2024 - 2024
       </blockquote>
     </td>
@@ -58,7 +58,7 @@ Now exploring a new world of C++ and Unreal.
       Royal Luck Prize 
       <blockquote>
         Worked on UI development and also created gameplay prototypes and interfaces for other games at the studio.  <br>
-        Web <br>
+        Unity: Web <br>
         :spiral_calendar:  2019 - 2021
       </blockquote>
     </td>
@@ -74,7 +74,7 @@ Now exploring a new world of C++ and Unreal.
       Neuron 3 
       <blockquote>
         Games using actionscript 3 Starling and DragonBones for web and mobile.  <br>
-        Web <br>
+        As3 + starling: Web <br>
         :spiral_calendar:  2012 - 2018
       </blockquote>
       <a href="https://youtu.be/-miar8zf2W8?si=YyZzkUUeEIrouMVH">
