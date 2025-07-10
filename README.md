@@ -40,7 +40,7 @@ Now exploring a new world of C++ and Unreal.
       AgroSchool - Financial Game 
       <blockquote>
         End-to-End game development.  <br>
-        Unity: Web <br>
+        Unity: Web | Mobile <br>
         :spiral_calendar:  2024 - 2024
       </blockquote>
     </td>
@@ -73,7 +73,7 @@ Now exploring a new world of C++ and Unreal.
     <td>
       Neuron 3 
       <blockquote>
-        Games using actionscript 3 Starling and DragonBones for web and mobile.  <br>
+        End-to-end development of logic games  <br>
         As3 + starling: Web <br>
         :spiral_calendar:  2012 - 2018
       </blockquote>
