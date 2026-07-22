@@ -1,6 +1,6 @@
 #  👋 Caio Vinícius
 
-**`🎮 Game developer / UI developer`**
+**`🎮 Game developer / UI Engineer`**
 
 Creating games since 2008. I developed web games in Flash using Starling until 2019, then transitioned to Unity and C# with a strong focus on mobile. In 2025, I'm expanding into Unreal Engine and C++ to dive deeper into 3D and XR experiences.
 Now exploring a new world of C++ and Unreal.
