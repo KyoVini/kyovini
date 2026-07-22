@@ -106,7 +106,8 @@ Now exploring a new world of C++ and Unreal.
 |![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)   | 🌱 🟩🟧⬜⬜⬜⬜⬜⬜ |
 |![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) | 🔥 🟩🟩🟩🟩🟩🟩🟩🟩 |
 |![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white) | 🌱 🟩🟧⬜⬜⬜⬜⬜⬜ |
-
+|![As3] | 🔥 🟩🟩🟩🟩🟩🟩🟩🟩 |
+|![Adobe Animate] | 🔥 🟩🟩🟩🟩🟩🟩🟩🟩 |
 
 
 
