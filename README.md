@@ -137,19 +137,45 @@ I’ve built my career in the digital entertainment industry, working across gam
 ## SKILLS & COMPETENCIES
 
 ### Game Development
-Unity · Unreal Engine · Gameplay Programming · Game Mechanics · Game UI · Animation
+![Unity](https://img.shields.io/badge/Unity-333333?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-333333?style=flat-square&logo=unrealengine&logoColor=white)
+![Gameplay Programming](https://img.shields.io/badge/Gameplay_Programming-333333?style=flat-square)
+![Game Mechanics](https://img.shields.io/badge/Game_Mechanics-333333?style=flat-square)
+![Game UI](https://img.shields.io/badge/Game_UI-333333?style=flat-square)
+![Animation](https://img.shields.io/badge/Animation-333333?style=flat-square)
 
 ### Programming
-C# · C++ · Python · ActionScript 3 · OOP · Design Patterns · Software Architecture
+![C#](https://img.shields.io/badge/C%23-333333?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-333333?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
+![ActionScript 3](https://img.shields.io/badge/ActionScript_3-333333?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-333333?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-333333?style=flat-square)
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-333333?style=flat-square)
 
 ### UI Engineering
-UI Development · UI Architecture · State Management · Responsive Layouts · UX & Interaction Design · Performance Optimization
+![UI Development](https://img.shields.io/badge/UI_Development-333333?style=flat-square)
+![UI Architecture](https://img.shields.io/badge/UI_Architecture-333333?style=flat-square)
+![State Management](https://img.shields.io/badge/State_Management-333333?style=flat-square)
+![Responsive Layouts](https://img.shields.io/badge/Responsive_Layouts-333333?style=flat-square)
+![UX Design](https://img.shields.io/badge/UX_&_Interaction_Design-333333?style=flat-square)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-333333?style=flat-square)
 
 ### Tools & Workflow
-Visual Studio · Git · GitHub · GitLab · Perforce · Adobe Animate · Slack
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-333333?style=flat-square&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-333333?style=flat-square&logo=gitlab&logoColor=white)
+![Perforce](https://img.shields.io/badge/Perforce-333333?style=flat-square)
+![Adobe Animate](https://img.shields.io/badge/Adobe_Animate-333333?style=flat-square&logo=adobeanimate&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-333333?style=flat-square&logo=slack&logoColor=white)
 
 ### Engineering Practices
-Problem Solving · Debugging · Code Optimization · Agile Development · Cross-functional Collaboration
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-333333?style=flat-square)
+![Debugging](https://img.shields.io/badge/Debugging-333333?style=flat-square)
+![Code Optimization](https://img.shields.io/badge/Code_Optimization-333333?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile_Development-333333?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Cross--functional_Collaboration-333333?style=flat-square)
 
 <!--
 **KyoVini/kyovini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
