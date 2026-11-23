@@ -2,8 +2,7 @@
 
 **`🎮 UI Engineer / Game developer`**
 
-Creating games since 2008. I developed web games in Flash using Starling until 2019, then transitioned to Unity and C# with a strong focus on mobile. In 2025, I'm expanding into Unreal Engine and C++ to dive deeper into 3D and XR experiences.
-Now exploring a new world of C++ and Unreal.
+With a background in digital experiences and entertainment, I’ve built my career around the gaming industry, creating and developing projects that connect brands, technology, and people through meaningful and engaging experiences.
 
 > Check my Linkedin 
 >
@@ -132,7 +131,7 @@ Now exploring a new world of C++ and Unreal.
       </a>
     </td>
   </tr>
-<table>
+</table>
   
 ---
 ## 🚀 SKILLS & COMPETENCIES
@@ -162,12 +161,6 @@ Now exploring a new world of C++ and Unreal.
 | ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) |  🟩🟩🟩🟩🟩🟧⬜⬜ |
 | ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) |  🟩🟩🟩🟧⬜⬜⬜⬜ |
 
-### 🎨 DESIGN & UI/UX TOOLS
-
-| 🧩 TECHNOLOGY | 📊 SKILL LEVEL |
-|---|---|
-| ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |  🟩🟩🟩🟩🟩🟩🟧⬜ |
-
 ### 🔄 VERSION CONTROL & COLLABORATION
 
 | 🧩 TECHNOLOGY | 📊 SKILL LEVEL |
@@ -187,12 +180,14 @@ Now exploring a new world of C++ and Unreal.
 | Object-Oriented Programming (OOP) |  🟩🟩🟩🟩🟩🟩🟩🟩 |
 | Problem Solving & Algorithms |  🟩🟩🟩🟩🟩🟩🟩🟧 |
 | Design Patterns|  🟩🟩🟩🟩🟩🟩🟧⬜ |
+| Data Sctructure |  🟩🟩🟩🟩🟩🟩🟧⬜ |
 
 ### 🕹️ GAME DEVELOPMENT
 
 | 🧩 SKILL | 📊 SKILL LEVEL |
 |---|---|
-| Game Development |  🟩🟩🟩🟩🟩🟧⬜⬜|
+| Gameplay Programming |  🟩🟩🟩🟩🟩🟩🟧⬜|
+| Event-Driven Architecture |  🟩🟩🟩🟩🟩🟩🟧⬜|
 | Game Mechanics & Systems |  🟩🟩🟩🟩🟧⬜⬜⬜ |
 | Game UI Development |  🟩🟩🟩🟩🟩🟩🟩🟩 |
 | Animation & Transitions |  🟩🟩🟩🟩🟩🟩🟧⬜ |
@@ -202,6 +197,7 @@ Now exploring a new world of C++ and Unreal.
 | 🧩 SKILL | 📊 SKILL LEVEL |
 |---|---|
 | UI Development |  🟩🟩🟩🟩🟩🟩🟩🟩 |
+| State Management |  🟩🟩🟩🟩🟩🟩🟩🟩 |
 | UI Architecture & Components |  🟩🟩🟩🟩🟩🟩🟧⬜ |
 | Responsive UI & Layout Systems |  🟩🟩🟩🟩🟩🟩🟧⬜ |
 | UX & Interaction Design |  🟩🟩🟩🟩🟩🟩🟧⬜ |
@@ -215,6 +211,7 @@ Now exploring a new world of C++ and Unreal.
 | Code Optimization & Refactoring |  🟩🟩🟩🟩🟩🟩🟧⬜ |
 | Cross-functional Collaboration |  🟩🟩🟩🟩🟩🟩🟩🟩 |
 | Agile Development |  🟩🟩🟩🟩🟩🟩🟩🟩 |
+| Version Control Workflows |  🟩🟩🟩🟩🟩🟧⬜⬜ |
 
 ### 📚 FOUNDATIONS & THEORY
 
