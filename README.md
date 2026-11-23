@@ -2,7 +2,7 @@
 
 **`🎮 UI Engineer / Game developer`**
 
-With a background in digital experiences and entertainment, I’ve built my career around the gaming industry, creating and developing projects that connect brands, technology, and people through meaningful and engaging experiences.
+I’ve built my career in the digital entertainment industry, working across games and interactive experiences, and exploring how technology and creativity come together.
 
 > Check my Linkedin 
 >
@@ -134,94 +134,22 @@ With a background in digital experiences and entertainment, I’ve built my care
 </table>
   
 ---
-## 🚀 SKILLS & COMPETENCIES
+## SKILLS & COMPETENCIES
 
-### 💻 PROGRAMMING LANGUAGES
+### Game Development
+Unity · Unreal Engine · Gameplay Programming · Game Mechanics · Game UI · Animation
 
-| 🧩 TECHNOLOGY | 📊 SKILL LEVEL |
-|---|---|
-| ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |  🟩🟩🟩🟩🟩🟩🟩🟩 |
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |  🟩🟩🟧⬜⬜⬜⬜⬜ |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |  🟩🟩🟩🟧⬜⬜⬜⬜ |
-| ![AS3](https://img.shields.io/badge/-AS3-CC0000?style=flat-square&color=CC0000) |  🟩🟩🟩🟩🟩🟩🟩🟩 |
+### Programming
+C# · C++ · Python · ActionScript 3 · OOP · Design Patterns · Software Architecture
 
-### 🎮 GAME ENGINES & DEVELOPMENT TOOLS
+### UI Engineering
+UI Development · UI Architecture · State Management · Responsive Layouts · UX & Interaction Design · Performance Optimization
 
-| 🧩 TECHNOLOGY | 📊 SKILL LEVEL |
-|---|---|
-| ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) |  🟩🟩🟩🟩🟩🟩🟩🟩 |
-| ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white) |  🟩🟩🟧⬜⬜⬜⬜⬜ |
-| ![Adobe Animate](https://img.shields.io/badge/-Adobe%20Animate-9999FF?style=flat-square&logo=adobeanimate&logoColor=white) |  🟩🟩🟩🟩🟩🟩🟩🟩 |
+### Tools & Workflow
+Visual Studio · Git · GitHub · GitLab · Perforce · Adobe Animate · Slack
 
-### 🛠️ IDEs & CODE EDITORS
-
-| 🧩 TECHNOLOGY | 📊 SKILL LEVEL |
-|---|---|
-| ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) |  🟩🟩🟩🟩🟩🟩🟩🟩 |
-| ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) |  🟩🟩🟩🟩🟩🟧⬜⬜ |
-| ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) |  🟩🟩🟩🟧⬜⬜⬜⬜ |
-
-### 🔄 VERSION CONTROL & COLLABORATION
-
-| 🧩 TECHNOLOGY | 📊 SKILL LEVEL |
-|---|---|
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |  🟩🟩🟩🟩🟩🟧⬜⬜ |
-| ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |  🟩🟩🟩🟩🟩🟩🟧⬜ |
-| ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |  🟩🟩🟩🟩🟩🟧⬜⬜ |
-| ![Perforce](https://img.shields.io/badge/-Perforce-404040?style=flat-square&logo=perforce&logoColor=white) |  🟩🟩🟩🟩🟩🟧⬜⬜ |
-| ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white) |  🟩🟩🟩🟩🟩🟩🟩🟩 |
-
-### 💻 SOFTWARE DEVELOPMENT
-
-| 🧩 SKILL | 📊 SKILL LEVEL |
-|---|---|
-| Programming |  🟩🟩🟩🟩🟩🟩🟩🟧 |
-| Software Architecture |  🟩🟩🟩🟩🟩🟩🟧⬜ |
-| Object-Oriented Programming (OOP) |  🟩🟩🟩🟩🟩🟩🟩🟩 |
-| Problem Solving & Algorithms |  🟩🟩🟩🟩🟩🟩🟩🟧 |
-| Design Patterns|  🟩🟩🟩🟩🟩🟩🟧⬜ |
-| Data Sctructure |  🟩🟩🟩🟩🟩🟩🟧⬜ |
-
-### 🕹️ GAME DEVELOPMENT
-
-| 🧩 SKILL | 📊 SKILL LEVEL |
-|---|---|
-| Gameplay Programming |  🟩🟩🟩🟩🟩🟩🟧⬜|
-| Event-Driven Architecture |  🟩🟩🟩🟩🟩🟩🟧⬜|
-| Game Mechanics & Systems |  🟩🟩🟩🟩🟧⬜⬜⬜ |
-| Game UI Development |  🟩🟩🟩🟩🟩🟩🟩🟩 |
-| Animation & Transitions |  🟩🟩🟩🟩🟩🟩🟧⬜ |
-
-### 🖥️ UI ENGINEERING
-
-| 🧩 SKILL | 📊 SKILL LEVEL |
-|---|---|
-| UI Development |  🟩🟩🟩🟩🟩🟩🟩🟩 |
-| State Management |  🟩🟩🟩🟩🟩🟩🟩🟩 |
-| UI Architecture & Components |  🟩🟩🟩🟩🟩🟩🟧⬜ |
-| Responsive UI & Layout Systems |  🟩🟩🟩🟩🟩🟩🟧⬜ |
-| UX & Interaction Design |  🟩🟩🟩🟩🟩🟩🟧⬜ |
-| UI Optimization & Performance |  🟩🟩🟩🟩🟩🟧⬜⬜ |
-
-### ⚙️ ENGINEERING PRACTICES
-
-| 🧩 SKILL | 📊 SKILL LEVEL |
-|---|---|
-| Debugging & Troubleshooting |  🟩🟩🟩🟩🟧⬜⬜⬜ |
-| Code Optimization & Refactoring |  🟩🟩🟩🟩🟩🟩🟧⬜ |
-| Cross-functional Collaboration |  🟩🟩🟩🟩🟩🟩🟩🟩 |
-| Agile Development |  🟩🟩🟩🟩🟩🟩🟩🟩 |
-| Version Control Workflows |  🟩🟩🟩🟩🟩🟧⬜⬜ |
-
-### 📚 FOUNDATIONS & THEORY
-
-| 🧩 SKILL | 📊 SKILL LEVEL |
-|---|---|
-| Mathematics |  🟩🟩🟩🟧⬜⬜⬜⬜ |
-| Physics |  🟩🟩🟩🟧⬜⬜⬜⬜ |
-
----
-
+### Engineering Practices
+Problem Solving · Debugging · Code Optimization · Agile Development · Cross-functional Collaboration
 
 <!--
 **KyoVini/kyovini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
